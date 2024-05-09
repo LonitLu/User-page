@@ -1,0 +1,14 @@
+<svg width="24.000000" height="24.000000" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip8_731">
+			<rect id="Outline / Small Arrow Down Outline" width="24.000000" height="24.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="Outline / Small Arrow Down Outline" width="24.000000" height="24.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip8_731)">
+		<path id="Union" d="M7.71 9.99C7.71 9.81 7.78 9.64 7.92 9.51C8.19 9.27 8.6 9.29 8.84 9.55L11.99 13.04L15 9.56C15.24 9.29 15.65 9.28 15.92 9.52C16.18 9.76 16.2 10.17 15.96 10.44L12.51 14.41C12.23 14.72 11.75 14.72 11.47 14.41L7.88 10.43C7.76 10.3 7.71 10.15 7.71 9.99Z" fill="#8F8F8F" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
